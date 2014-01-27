@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SectionedKittenCollectionView.iOS/Views/KittenCollectionViewCell.designer.cs">
+    <Files>
+      <File FileName="SectionedKittenCollectionView.Core/ViewModels/KittenViewModel.cs" Line="65" Column="55" />
+      <File FileName="SectionedKittenCollectionView.iOS/Views/FirstView.cs" Line="39" Column="6" />
+      <File FileName="SectionedKittenCollectionView.iOS/AppDelegate.cs.txt" Line="29" Column="2" />
+      <File FileName="SectionedKittenCollectionView.iOS/AppDelegate.cs" Line="29" Column="2" />
+      <File FileName="SectionedKittenCollectionView.iOS/Views/KittenCollectionViewCell.cs" Line="11" Column="47" />
+      <File FileName="SectionedKittenCollectionView.iOS/Views/KittenCollectionViewCell.designer.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SectionedKittenCollectionView.Core" expanded="True">
+            <Node name="Services" expanded="True" />
+            <Node name="ViewModels" expanded="True" />
+          </Node>
+          <Node name="SectionedKittenCollectionView.iOS" expanded="True">
+            <Node name="Views" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
